@@ -6,6 +6,10 @@ draft = false
 
 ## Introduction
 
-This is **bold** text, and this is *emphasized* text.
+Welcome to my first Blog Post
+
+I am using Hugo to do this and it is a wonderful website build tool.
+
+I think you should figure it out.
 
 Visit the [Hugo](https://gohugo.io) website!
