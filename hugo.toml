@@ -1,0 +1,4 @@
+baseURL = 'https://dunbars123.uk/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
