@@ -13,4 +13,6 @@ Today, has been a great day for me. Especially after a few days off leave, even 
 
 Got some great work done.
 
-## Unknown
+## About today (19/8/24)
+
+This is my second week in, and its quite exciting, new fire panel, new files to scan plus, a secret rave haha
