@@ -1,7 +1,7 @@
 +++
 title = 'An Update for second week'
 date = 2024-08-19T20:48:10Z
-draft = true
+draft = false
 +++
 
 ## Introduction
@@ -27,11 +27,11 @@ This day wasn't special again, but finally finsihed another box ready for the fi
 
 ## About Thursday (22/8/24)
 
-
+Thursday was a lovely day. Nothing different from the work week. I enjoyed it muchly. The best day was the day after, Friday.
 
 ## About Friday (23/8/24)
 
-
+Friday, the best day. Should of seen my face when I left work. Left at 4PM rather than 4:30PM. Again, slow but steady.
 
 ## Conclusion
 
