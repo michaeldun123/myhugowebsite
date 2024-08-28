@@ -1,0 +1,12 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeldun123/myhugowebsite.git"
+  },
+  "author": "Michael Dunbar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaeldun123/myhugowebsiteissues"
+  },
+  "homepage": "https://github.com/michaeldun123/myhugowebsite"
+}
