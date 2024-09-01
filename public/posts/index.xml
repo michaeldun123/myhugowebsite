@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Dunbars123 website</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://dunbars123.uk/posts/</link>
     <description>Recent content in Posts on The Dunbars123 website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 May 2024 13:46:17 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Aug 2024 20:48:10 +0000</lastBuildDate>
+    <atom:link href="https://dunbars123.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Update for second week</title>
+      <link>https://dunbars123.uk/posts/week-2-of-job/</link>
+      <pubDate>Mon, 19 Aug 2024 20:48:10 +0000</pubDate>
+      <guid>https://dunbars123.uk/posts/week-2-of-job/</guid>
+      <description>Introduction Hello, It&amp;rsquo;s been a while.&#xA;I have not long started a new job with the local council and it has been an experience.&#xA;Today, has been a great day for me. Especially after a few days off leave, even though I was ill.&#xA;Got some great work done.&#xA;About Monday (19/8/24) This is my second week in, and its quite exciting, new fire panel, new files to scan plus, a secret rave haha</description>
+    </item>
+    <item>
+      <title>The Experience</title>
+      <link>https://dunbars123.uk/posts/the-experience/</link>
+      <pubDate>Fri, 24 May 2024 10:33:42 +0000</pubDate>
+      <guid>https://dunbars123.uk/posts/the-experience/</guid>
+      <description>Introduction The experience for working with Hugo has been excelent, I can&amp;rsquo;t fault it what so ever, and the way it is, can be so excelent.&#xA;As an example, this is the first time I&amp;rsquo;m using something like this and can&amp;rsquo;t fault it what so ever.&#xA;Final words The experience of setting up ssh, using casaos (running off Ubuntu Server which is linked) as a base OS, then having to install Hugo.</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://dunbars123.uk/posts/my-first-post/</link>
       <pubDate>Thu, 23 May 2024 13:46:17 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://dunbars123.uk/posts/my-first-post/</guid>
       <description>Introduction Welcome to my first Blog Post&#xA;I am using Hugo to do this and it is a wonderful website build tool.&#xA;I think you should figure it out.&#xA;Visit the Hugo website!</description>
     </item>
   </channel>

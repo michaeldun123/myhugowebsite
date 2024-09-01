@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://dunbars123.uk/posts/week-2-of-job/</loc>
+    <lastmod>2024-08-19T20:48:10+00:00</lastmod>
+  </url><url>
+    <loc>https://dunbars123.uk/posts/</loc>
+    <lastmod>2024-08-19T20:48:10+00:00</lastmod>
+  </url><url>
+    <loc>https://dunbars123.uk/</loc>
+    <lastmod>2024-08-19T20:48:10+00:00</lastmod>
+  </url><url>
+    <loc>https://dunbars123.uk/posts/the-experience/</loc>
+    <lastmod>2024-05-24T10:33:42+00:00</lastmod>
+  </url><url>
+    <loc>https://dunbars123.uk/posts/my-first-post/</loc>
     <lastmod>2024-05-23T13:46:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-05-23T13:46:17+00:00</lastmod>
+    <loc>https://dunbars123.uk/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-23T13:46:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://dunbars123.uk/tags/</loc>
   </url>
 </urlset>
