@@ -18,7 +18,7 @@ We welcome contributions! Please see the [CONTRIBUTING](CONTRIBUTING.md) documen
 
 ## License
 
-This project is licensed under the terms of the [GNU License](LICENSE).
+This project is licensed under the terms of the [GPL License](LICENSE).
 
 ## Contact
 
