@@ -5,7 +5,7 @@ Hugo Website
 [![License](https://img.shields.io/github/license/michaeldun123/myhugowebsite)](LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/michaeldun123/myhugowebsite)](https://github.com/michaeldun123/myhugowebsite/graphs/contributors)
 
-A brief description of your project: what it does, who it's for, and why it's useful.
+A brief description of your project: It's a website for me to use and open source it. :)
 
 ## Table of Contents
 - [Contributing](#contributing)
